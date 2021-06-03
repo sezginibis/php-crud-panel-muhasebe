@@ -1,0 +1,18 @@
+Giderler
+    - Masraflar
+    - Ödemeler
+    - Çalışanlar
+
+Gelirler
+    - Alacaklar
+    - Satışlar
+
+Nakit Yönetimi
+
+Raporlar
+    - Satış raporu
+    - Tahsilat raporu
+    - Ödeme raporu
+    - Masraf raporu
+
+Müşteriler
